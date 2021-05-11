@@ -31,10 +31,11 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-[facebook]: https://www.facebook.com/rahat.minhaj
-[instagram]: https://www.instagram.com/rahat_minhaj007/
-[linkedin]: https://www.linkedin.com/in/minhajul-abedin-rahat-815286146/
+
+[facebook]: https://www.facebook.com/tahmidalif.mahdi/
+[twitter]: https://twitter.com/tahmidz_alif
+[instagram]: https://www.instagram.com/tahmidalif/
+[linkedin]: https://www.linkedin.com/in/tahmidmahdi/
 
 
 
