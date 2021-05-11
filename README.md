@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Rahat</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **devlop my web development knowledge**
+- 🔭 I’m currently working on **Devlop my web development knowledge**
 
-- 🌱 I’m currently learning **front end & back end based technology**
+- 🌱 I’m currently learning **Front End & Back End based technology**
+
+- 🥅 2021 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact **I love travel & watch movies**
 
@@ -43,12 +45,9 @@
 <br />
 
 <br />
-<br />
-<br />
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat-minhaj007&show_icons=true&locale=en&layout=compact" alt="rahat-minhaj007" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-minhaj007&show_icons=true&locale=en" alt="rahat-minhaj007" /></p>
 
 
