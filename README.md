@@ -7,6 +7,18 @@
 
 - ⚡ Fun fact **I love travel & watch movies**
 
+
+
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[portfolio]: https://arsentieva.github.io/profile/
+
+
+
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -44,11 +56,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-minhaj007&show_icons=true&locale=en" alt="rahat-minhaj007" /></p>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+
 
 
 
