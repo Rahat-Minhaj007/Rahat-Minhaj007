@@ -48,6 +48,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat-minhaj007&show_icons=true&locale=en&layout=compact" alt="rahat-minhaj007" /></p>
 <br />
+---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-minhaj007&show_icons=true&locale=en" alt="rahat-minhaj007" /></p>
 
 
