@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Rahat</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Devlop my web development knowledge**
+- 🔭 I’m currently working on **Devloping my web development knowledge**
 
 - 🌱 I’m currently learning **Front End & Back End based technology**
 
