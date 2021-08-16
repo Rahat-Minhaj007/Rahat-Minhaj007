@@ -46,10 +46,10 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
-<br />
+
+##📊 My Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat-minhaj007&show_icons=true&locale=en&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="rahat-minhaj007" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-minhaj007&show_icons=true&locale=en&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"" alt="rahat-minhaj007" /></p>
 
 
