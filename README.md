@@ -1,4 +1,4 @@
- <img align="right" width="500px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="" srcset=""> 
+ <div><img align="right" width="500px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="" srcset=""> </div>
 
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Rahat</h1>
 
