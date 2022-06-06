@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front End & Back End based technology**
 
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
+- 🥅 2022 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact **I love travel & watch movies**
 
