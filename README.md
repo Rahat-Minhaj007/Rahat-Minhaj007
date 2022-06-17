@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Rahat</h1>
 
-<h3 align="center">A Passionate FRONT-END DEVELOPER from Bangladesh</h3>
+<h3 align="center">A Passionate FRONT-END ENGINNER from Bangladesh</h3>
 
 
 - 🔭 I’m currently working on **Devloping my web development knowledge**
