@@ -1,4 +1,6 @@
-<img align="center" width="500px" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="" srcset="">
+<div align="center">
+ <img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="Coder GIF" width="500" height="400">
+ </div>
  
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Rahat</h1>
 
