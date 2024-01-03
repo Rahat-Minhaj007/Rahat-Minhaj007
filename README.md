@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate FRONT-END ENGINEER from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **Devloping my web development knowledge**
+- 🔭 I’m currently working on **Devloping Patalmarkete E-Commerce Back End**
 
 - 🌱 I’m currently learning **Front End & Back End based technology**
 
