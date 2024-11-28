@@ -4,12 +4,12 @@
  
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Rahat</h1>
 
-<h3 align="center">A Passionate FRONT-END ENGINEER from Bangladesh</h3>
+<h3 align="center">A Passionate Software Engineer from Japan</h3>
 
 
-- 🔭 I’m currently working on **Devloping Patalmarkete E-Commerce Back End**
+- 🔭 I’m currently working on **Devloping Ozone Automobile**
 
-- 🌱 I’m currently learning **Front End & Back End based technology**
+- 🌱 I’m currently learning **PHP,Laravel,SQL**
 
 - 🥅 2024 Goals: **Contribute more to Open Source projects**
 
