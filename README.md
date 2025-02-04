@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Devloping Ozone Automobile**
 
-- 🌱 I’m currently learning **PHP,Laravel,SQL**
+- 🌱 I’m currently learning **PHP, Laravel, SQL**
 
 - 🥅 2024 Goals: **Contribute more to Open Source projects**
 
