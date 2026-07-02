@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, SQL**
 
-- 🥅 2024 Goals: **Contribute more to Open Source projects**
+- 🥅 2026 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact **I love travel & watch movies**
 
