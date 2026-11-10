@@ -1,72 +1,127 @@
+<!-- ===== HEADER ===== -->
 <div align="center">
- <img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="Coder GIF" width="600" height="400">
- </div>
- 
-<h1 align="center">Hi 👋, I'm Minhajul Abedin Rahat</h1>
 
-<h3 align="center">A Passionate Software Engineer from Japan</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:8957e5&height=220&section=header&text=Minhajul%20Abedin%20Rahat&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%E2%80%A2%20PHP%20%E2%80%A2%20Laravel&descAlignY=58&descSize=18" alt="header" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahat;Passionate+Software+Engineer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;Frontend+%E2%86%92+Full-Stack+Developer;Building+Ozone+Automobile+%F0%9F%9A%97" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **Devloping Ozone Automobile**
+<br/>
 
-- 🌱 I’m currently learning **PHP, Laravel, SQL**
+![Profile Views](https://komarev.com/ghpvc/?username=Rahat-Minhaj007&label=Profile%20Views&color=1f6feb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Rahat-Minhaj007?label=Followers&style=for-the-badge&logo=github&color=8957e5)
 
-- 🥅 2026 Goals: **Contribute more to Open Source projects**
-
-- ⚡ Fun fact **I love travel & watch movies**
-
-
-
-### Languages and Tools:
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Es6" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/es6/es6.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/docker/docker.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/redux/redux.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/express/express.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/npm/npm.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />
-<br />
-<br />
+</div>
 
 ---
 
-### Connect with me:
+## 👨‍💻 About Me
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+```js
+const rahat = {
+  name: "Minhajul Abedin Rahat",
+  location: "Japan 🇯🇵",
+  role: "Software Engineer",
+  currentlyBuilding: "Ozone Automobile 🚗",
+  currentlyLearning: ["PHP", "Laravel", "SQL"],
+  goals2026: "Contribute more to Open Source 🌍",
+  funFact: "I love traveling ✈️ and watching movies 🎬",
+};
+```
 
+<table>
+<tr>
+<td>
 
-<br />
+🔭 **Working on:** Ozone Automobile  
+🌱 **Learning:** PHP, Laravel, SQL  
+🥅 **2026 Goal:** Open Source contributions  
+⚡ **Fun fact:** Travel & movies addict
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,react,redux,html,css,sass&theme=dark" alt="frontend" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,python&theme=dark" alt="backend" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,npm,vscode,bash&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahat-Minhaj007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat-Minhaj007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
 <br/>
 
-## 📊  My Github Status
+<img src="https://streak-stats.demolab.com?user=Rahat-Minhaj007&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahat-Minhaj007&show_icons=true&locale=en&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Rahat-Minhaj007" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahat-Minhaj007&show_icons=true&locale=en&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"" alt="Rahat-Minhaj007" /></p>
+</div>
 
+---
 
+## 🏆 Trophies
 
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Rahat-Minhaj007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 
-[facebook]: https://www.facebook.com/rahat.minhaj
-[linkedin]: https://www.linkedin.com/in/minhajul-abedin-rahat-815286146/
-[instagram]: https://www.instagram.com/rahat_minhaj007/ 
+</div>
 
+---
 
+## 📈 Contribution Graph
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahat-Minhaj007&bg_color=0D1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/minhajul-abedin-rahat-815286146/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/rahat.minhaj">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/rahat_minhaj007/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+💬 *Open to collaboration on open source projects — feel free to reach out!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0D1117&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
